@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 
 ### Top Languages
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dsx137&layout=compact&langs_count=14&hide=stylus,smarty,html,css,smalltalk,cmake&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dsx137&layout=compact&langs_count=14&hide=stylus,smarty,html,javascript,css,smalltalk,cmake&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
