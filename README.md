@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 # Potato
 
-![这是访问量计数，如果看不到请刷新](https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=dsx137.dsx137.readme)
+![这是访问量计数，如果看不到请刷新](https://img.shields.io/badge/dynamic/json?url=https://finicounter.eu.org/counter?host=github.com.dsx137.dsx137.README.md&label=visitors&query=views&style=for-the-badge&color=green)
 
 ## About Me
 
-[DNote](//dsx137.github.io/DNote)
+[![DNote](https://img.shields.io/static/v1?label=DNote&logo=bookstack&message=Click%20Me&color=989dce&style=for-the-badge)](//dsx137.github.io/DNote)
 
 ### Github Stats
 [![github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dsx137&show_icons=true&count_private=true&include_all_commits=true&line_height=28&hide_rank=false&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
