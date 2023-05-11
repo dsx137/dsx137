@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # ![潜龙勿用.png](https://s2.loli.net/2023/05/11/xh4yJNSKBfuU3la.png)
 
-[![这是访问量计数，如果看不到请刷新](https://img.shields.io/badge/dynamic/json?url=https://finicounter.eu.org/counter?host=github.com.dsx137.dsx137.README.md&label=visitors&query=views&style=for-the-badge&color=green)](#)
+![这是访问量计数，如果看不到请刷新](https://img.shields.io/badge/dynamic/json?url=https://finicounter.eu.org/counter?host=github.com.dsx137.dsx137.README.md&label=visitors&query=views&style=for-the-badge&color=green)
 
 ## About Me
 
