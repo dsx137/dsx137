@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# ![潜龙勿用.png](https://z1.ax1x.com/2023/11/09/pi3pFm9.png)
+# ![潜龙勿用.png](https://github.com/dsx137/dsx137/blob/main/%E6%BD%9C%E9%BE%99%E5%8B%BF%E7%94%A8.png)
 
 ![这是访问量计数，如果看不到请刷新](https://img.shields.io/badge/dynamic/json?url=https://finicounter.eu.org/counter?host=github.com.dsx137.dsx137.README.md&label=visitors&query=views&style=for-the-badge&color=green)
 
