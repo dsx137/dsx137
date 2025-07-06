@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 [![DNote](https://img.shields.io/static/v1?label=DNote&logo=bookstack&message=Click%20Me&color=989dce&style=for-the-badge)](//dsx137.github.io/DNote)
 
 ### Github Stats
-[![github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dsx137&show_icons=true&count_private=true&include_all_commits=true&line_height=28&hide_rank=false&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=dsx137&show_icons=true&count_private=true&include_all_commits=true&line_height=28&hide_rank=false&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Top Languages
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dsx137&layout=compact&langs_count=14&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsx137&layout=compact&langs_count=14&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
